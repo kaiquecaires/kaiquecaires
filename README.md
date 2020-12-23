@@ -8,7 +8,6 @@
 <br />
 
 ### `Social networks:`
-
 <code>
   <a target="_blank" href="https://www.linkedin.com/in/kaique-caires-807771186/">
     <img height="32" src="https://verat.co.uk/wp-content/uploads/2019/03/1024px-Linkedin_icon.svg.png" alt="LinkedIn"/>
@@ -16,9 +15,7 @@
 </code>
 
 <br />
+<br />
 
 ### `Languages:`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquecaires&layout=compact&theme=radical" alt="Mitsu325's github stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquecaires&layout=compact&theme=radical" alt="Mitsu325's github stats" />
