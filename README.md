@@ -7,7 +7,7 @@
 
 #### `Social networks:`
 <code>
-  <a target="_blank" href="https://www.linkedin.com/in/kaique-caires-807771186/">
+  <a target="_blank" href="https://www.linkedin.com/in/kaique-caires/">
     <img height="24" src="https://verat.co.uk/wp-content/uploads/2019/03/1024px-Linkedin_icon.svg.png" alt="LinkedIn"/>
   </a>
 </code>
