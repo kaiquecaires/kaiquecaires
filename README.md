@@ -1,4 +1,6 @@
-#### `Programmer since 2019, currently focusing on technologies:`
+### Programador desde 2019, atualmente focado em Back-end e Arquitetura de software
+
+#### `Tecnologias:`
 
 <code><img height="24" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="Typescript"/></code>
 <code><img height="24" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="Javascript"/></code>
