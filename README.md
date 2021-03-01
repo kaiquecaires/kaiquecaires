@@ -7,7 +7,7 @@
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="ReactJs"/></code>
 <code><img height="24" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="NodeJs"/></code>
 
-#### `Social networks:`
+#### `Redes sociais:`
 <code>
   <a target="_blank" href="https://www.linkedin.com/in/kaique-caires/">
     <img height="24" src="https://verat.co.uk/wp-content/uploads/2019/03/1024px-Linkedin_icon.svg.png" alt="LinkedIn"/>
