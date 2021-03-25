@@ -1,5 +1,7 @@
 ### Programador profissionamente desde 2019, atualmente focado em Back-end com Nodejs (Clean Code, Clean Architecture e TDD)
 
+A constância + dedicação é a chave para o sucesso :)
+
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQE8KPXiCcwwSw/profile-displaybackgroundimage-shrink_200_800/0/1614640657120?e=1620259200&v=beta&t=gR3hv5BQRtufgKsBy4i71p_tQCztPoR6SuOJFn9dlFI" alt="arquitetura"/>
 
 ### Tecnologias:
