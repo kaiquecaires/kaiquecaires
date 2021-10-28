@@ -4,7 +4,7 @@ Software Engenieer at [**Sami**](https://www.linkedin.com/company/samisaude/myco
 
 🌱 Interests:
 * Web Development
-* Build things with Javascript & Typescript
+* Build stuff with Javascript & Typescript
 
 How to reach me? </br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" width="13" height="13" /> [**Linkedin**](https://www.linkedin.com/in/kaique-caires/) <br/>
