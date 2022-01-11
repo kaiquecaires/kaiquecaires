@@ -2,6 +2,8 @@
 
 Software Engenieer at [**Sami**](https://www.linkedin.com/company/samisaude/mycompany/)
 
+🚀 I am currently studying python while improving my skills in algorithms and data structures
+
 🌱 Interests:
 * Web Development
 * Build stuff with Javascript & Typescript
