@@ -1,15 +1,12 @@
 **Hi, I'm Kaique! 👋**
 
-Back End Developer at [**Sami**](https://www.linkedin.com/company/samisaude/mycompany/)
-
-🚀 I am currently studying python while improving my skills in algorithms and data structures
+I am dedicated to working hard and continually learning to become the best developer I can be. I believe that a combination of hard work, continuous learning, and effective collaboration is the path to success in this field.
 
 🌱 Interests:
-* Web Development
-* Build stuff with Javascript & Typescript
-* Python
-* Algorithms and Data structures
+- Golang
+- Nodejs
+- Algorithms and Data Structures
+- Design Systems
 
-How to reach me? </br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" width="13" height="13" /> [**Linkedin**](https://www.linkedin.com/in/kaique-caires/) <br/>
-<img src="https://image.flaticon.com/icons/png/512/124/124021.png" width="13" height="13" /> [**Twitter**](https://twitter.com/KaiqueCoimbra2)
+### Analytics ⚙️
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kaiquecaires)
