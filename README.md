@@ -7,6 +7,3 @@ I am dedicated to working hard and continually learning to become the best devel
 - Nodejs
 - Algorithms and Data Structures
 - Design Systems
-
-### Analytics ⚙️
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kaiquecaires)
